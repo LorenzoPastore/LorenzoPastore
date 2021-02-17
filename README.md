@@ -9,8 +9,8 @@
 </a>
 </p>
 
-### Now Playing 🎧
+### Spotify Playing 🎧
 
-[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+[<img src="https://https://lorenzo-pastore.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />]
 <br/>
 ---
