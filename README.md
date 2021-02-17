@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm <a href="https://lorenzopastore.github.io" target="_blank">Lorenzo</a>!</h2>
+<h2>Hey there! I'm <a href="https://lorenzopastore.github.io" target="_blank">Lorenzo</a>!</h2>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -11,6 +11,6 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://https://lorenzo-pastore.lorenzopastore.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />]
+[<img src="https:lorenzo-pastore.lorenzopastore.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />]
 <br/>
 ---
