@@ -12,5 +12,3 @@
 ### Spotify Playing 🎧
 
 <img src="https://spotify-now-playing.lorenzopastore.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="450" />
-<br/>
----
