@@ -1,5 +1,10 @@
 <h2>Hey there! I'm <a href="https://lorenzopastore.github.io" target="_blank">Lorenzo</a>!</h2>
 
+### Spotify Playing 🎧
+<p align="center">
+<img src="https://spotify-now-playing.lorenzopastore.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="450" />
+</p>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -9,6 +14,4 @@
 </a>
 </p>
 
-### Spotify Playing 🎧
 
-<img src="https://spotify-now-playing.lorenzopastore.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="450" />
