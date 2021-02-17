@@ -1,4 +1,4 @@
-<h2>Hey there! I'm <a href="https://lorenzopastore.github.io" target="_blank">Lorenzo</a>!</h2>
+<h2>Hey there! I'm <a href="https://www.linkedin.com/in/lorenzo-pastore-9a4653157/" target="_blank">Lorenzo</a>, check out my <a href="https://lorenzopastore.github.io" target="_blank">site</a>!!</h2>
 
 ### Spotify Playing 🎧
 <p align="center">
