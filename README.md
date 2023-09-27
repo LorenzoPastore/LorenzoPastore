@@ -6,16 +6,5 @@ I love 💚 to work with data and I'm very insterested in data viz. I also start
 
 I really hope to connect with a lot of people and work together to make the human race greater! ☄️
 
-check out my personal<a href="https://lorenzopastore.com" target="_blank"> site</a>!!
-
-
-#### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://lorenzopastore.com">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LorenzoPastore&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LorenzoPastore&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
-</a>
-</p>
-
+check out my personal <a href="https://lorenzopastore.com" target="_blank">site</a>!!
 
