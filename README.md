@@ -1,13 +1,15 @@
-<h2>Hey there! My name is <a href="https://www.linkedin.com/in/lorenzo-pastore-9a4653157/" target="_blank">Lorenzo</a>, check out my personal<a href="https://lorenzopastore.com" target="_blank"> site</a>!!</h2>
+<h2>Hey there!</h2> 
 
-<!---
-### Spotify Playing 🎧
-<p align="center">
-<img src="https://spotify-now-playing.lorenzopastore.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="450" />
-</p>
---->
+My name is <a href="https://www.linkedin.com/in/lorenzo-pastore-9a4653157/" target="_blank">Lorenzo</a>, I'm a Data enthusiast from Italy.
 
-### ⚙️ &nbsp;GitHub Analytics
+I love 💚 to work with data and I'm very insterested in data viz. I also started to design websites as personal interest. I only recently started to publish some of my work and really got online with the community. 🌏
+
+I really hope to connect with a lot of people and work together to make the human race greater! ☄️
+
+check out my personal<a href="https://lorenzopastore.com" target="_blank"> site</a>!!
+
+
+#### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://lorenzopastore.com">
